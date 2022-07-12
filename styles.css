@@ -1,1 +1,49 @@
 /* Write your CSS here! */
+body {
+  background-color: #f6f2fe;
+  margin: 8px;
+  display: block;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+#mainHeading {
+  color: red;
+  font-size: 38px;
+  text-decoration: underline;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  margin: 0 15px;
+  color: #885df1;
+}
+
+h2 {
+  color: #885df1;
+  font-size: 30px;
+  text-align: left;
+}
+#testP {
+  color: green;
+}
+.text-left {
+  color: #885df1;
+}
+.contact-details {
+  color: #885df1;
+  text-align: center;
+  font-size: 12px;
+}
