@@ -8,23 +8,17 @@ body {
   padding-bottom: 50px;
   padding-left: 50px;
 }
+#mainHeading {
+  color: red;
+  font-size: 38px;
+  text-decoration: underline;
+  text-align: center;
+}
 a {
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
-}
-.firstcharacter {
-  text-decoration: underline;
-}
-.text-right {
-  color: #885df1;
-}
-.text-left {
-  color: blue;
-}
-#introduction {
-  background-color: green;
 }
 ul {
   list-style: none;
@@ -36,25 +30,20 @@ li {
   margin: 0 15px;
   color: #885df1;
 }
-#mainHeading {
-  color: red;
-  font-size: 38px;
-  text-decoration: underline;
-  text-align: center;
-}
+
 h2 {
   color: #885df1;
   font-size: 30px;
   text-align: left;
 }
+.funParagraph {
+  color: green;
+}
+.text-left {
+  color: #885df1;
+}
 .contact-details {
   color: #885df1;
   text-align: center;
   font-size: 12px;
-}
-p:hover {
-  background: #fffbef;
-}
-.funParagraph {
-  color: green;
 }
